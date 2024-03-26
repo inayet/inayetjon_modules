@@ -1,0 +1,9 @@
+[submodule "dspygen"]
+	path = dspygen
+	url = https://github.com/inayet/dspygen
+[submodule "dspy"]
+	path = dspy
+	url = https://github.com/inayet/dspy
+[submodule "fastapi"]
+	path = fastapi
+	url = https://github.com/inayet/full-stack-fastapi-template
